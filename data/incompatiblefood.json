@@ -1,0 +1,952 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "foodA": "ဆူးပုတ်ရွက်",
+        "foodB": "ဆိတ်သား",
+        "description": "မူးဝေ "
+      },
+      {
+        "id": 2,
+        "foodA": "ကိုကိုး(ဖျော်ရည်)",
+        "foodB": "ပဲမြစ်",
+        "description": "မူးဝေ "
+      },
+      {
+        "id": 3,
+        "foodA": "ဝက်သား",
+        "foodB": "ဒေါင်းသား",
+        "description": "ဝမ်းလျှော "
+      },
+      {
+        "id": 4,
+        "foodA": "ဝက်သား",
+        "foodB": "ပေရည်ပေသီး",
+        "description": "ဝမ်းလျှော "
+      },
+      {
+        "id": 5,
+        "foodA": "ရှောက်သီး",
+        "foodB": "စောင်းလျှားသီး",
+        "description": "ဝမ်းလျှော "
+      },
+      {
+        "id": 6,
+        "foodA": "ခိုသား",
+        "foodB": "စောင်းလျားသီး",
+        "description": "ဝမ်းလျှော "
+      },
+      {
+        "id": 7,
+        "foodA": "ဆီးသီး",
+        "foodB": "စားတော်ပဲ",
+        "description": "ဝမ်းလျှော "
+      },
+      {
+        "id": 8,
+        "foodA": "ဘဲဥ",
+        "foodB": "ဗျိုင်းသား",
+        "description": "ဝမ်းလျှော "
+      },
+      {
+        "id": 9,
+        "foodA": "ကျွဲသား",
+        "foodB": "ကြာရိုးကြာစွယ်",
+        "description": "ဝမ်းလျှော "
+      },
+      {
+        "id": 10,
+        "foodA": "ကြက်သား",
+        "foodB": "ကြက်ဟင်းခါးသီး",
+        "description": "အော့အန် "
+      },
+      {
+        "id": 11,
+        "foodA": "အာလူး",
+        "foodB": "ကြက်ဟင်းခါးသီး",
+        "description": "အော့အန် "
+      },
+      {
+        "id": 12,
+        "foodA": "စိမ်းစားဥ",
+        "foodB": "ရှောက်သီး",
+        "description": "အော့အန် "
+      },
+      {
+        "id": 13,
+        "foodA": "ဘဲဥ",
+        "foodB": "ဖရဲသီး",
+        "description": "အော့အန် "
+      },
+      {
+        "id": 14,
+        "foodA": "သံပုရာသီး",
+        "foodB": "ပဲတကော",
+        "description": "အော့အန် "
+      },
+      {
+        "id": 15,
+        "foodA": "ပျားရည်",
+        "foodB": "ပိန္နဲသီး",
+        "description": "အော့အန် "
+      },
+      {
+        "id": 16,
+        "foodA": "စိမ်းစားဥ",
+        "foodB": "ချိုချဉ်",
+        "description": "အော့အန် "
+      },
+      {
+        "id": 17,
+        "foodA": "လက်ဖက်သုပ်",
+        "foodB": "မယ်ဇလီရွက်",
+        "description": "အော့အန် "
+      },
+      {
+        "id": 18,
+        "foodA": "နို့အေးချောင်း",
+        "foodB": "သခွါးသီး",
+        "description": "ရင်ကျပ် "
+      },
+      {
+        "id": 19,
+        "foodA": "နို့အေးချောင်း",
+        "foodB": "စိမ်းစားဥ",
+        "description": "ရင်ကျပ် "
+      },
+      {
+        "id": 20,
+        "foodA": "ကြက်သား",
+        "foodB": "ကြောင်လျှာသီး",
+        "description": "အကြောတက်"
+      },
+      {
+        "id": 21,
+        "foodA": "ကြက်ဟင်းခါးသီး",
+        "foodB": "မှို",
+        "description": "အကြောတက် "
+      },
+      {
+        "id": 22,
+        "foodA": "ကြက်ဥ",
+        "foodB": "တမာရွက်",
+        "description": "အကြောတက် "
+      },
+      {
+        "id": 23,
+        "foodA": "ကင်းပုံရွက်",
+        "foodB": "နှမ်း",
+        "description": "အကြောတက် "
+      },
+      {
+        "id": 24,
+        "foodA": "ရွှေဖရုံသီး",
+        "foodB": "ပုစွန်",
+        "description": "ဝမ်းကိုက်နာ "
+      },
+      {
+        "id": 25,
+        "foodA": "ခိုသား",
+        "foodB": "ငုံးသား",
+        "description": "ရင်ပူ "
+      },
+      {
+        "id": 26,
+        "foodA": "ဒူးရင်းသီး",
+        "foodB": "အရက်",
+        "description": "ရင်ပူ "
+      },
+      {
+        "id": 27,
+        "foodA": "ကဏန်း",
+        "foodB": "ခရမ်းသီး",
+        "description": "အဆိပ်သင့် "
+      },
+      {
+        "id": 28,
+        "foodA": "နွားနို့",
+        "foodB": "ငါးအစိမ်း",
+        "description": "အဆိပ်သင့် "
+      },
+      {
+        "id": 29,
+        "foodA": "အမဲသား",
+        "foodB": "တရုတ်ကြက်သွန်မိတ်",
+        "description": "အဆိပ်သင့် "
+      },
+      {
+        "id": 30,
+        "foodA": "မင်းကွတ်သီး",
+        "foodB": "သကြား",
+        "description": "သေ"
+      },
+      {
+        "id": 31,
+        "foodA": "ရေခဲမုန့်",
+        "foodB": "ဂျင်းသုပ်",
+        "description": "သေ"
+      },
+      {
+        "id": 32,
+        "foodA": "လက်ဖက်သုပ်",
+        "foodB": "ကျွဲခေါင်းသီး",
+        "description": "သေ"
+      },
+      {
+        "id": 33,
+        "foodA": "သံပုရာသီး",
+        "foodB": "ကျွဲခေါင်းသီး",
+        "description": "သေ"
+      },
+      {
+        "id": 34,
+        "foodA": "ဖရုံသီး",
+        "foodB": "ခိုသား",
+        "description": "သေ"
+      },
+      {
+        "id": 35,
+        "foodA": "ကြောင်လျှာသီး",
+        "foodB": "ငါးသေတ္တာ",
+        "description": "သေ"
+      },
+      {
+        "id": 36,
+        "foodA": "ကြောင်လျှာသီး",
+        "foodB": "ပဲဒလက်",
+        "description": "သေ"
+      },
+      {
+        "id": 37,
+        "foodA": "ကြောင်လျှာသီး",
+        "foodB": "စပါးကြီးမြွေ",
+        "description": "သေ"
+      },
+      {
+        "id": 38,
+        "foodA": "ချင်း(ဂျင်း)",
+        "foodB": "သင်္ဘောသီး",
+        "description": "သေ"
+      },
+      {
+        "id": 39,
+        "foodA": "ချင်း(ဂျင်း)",
+        "foodB": "ခိုသား",
+        "description": "သေ"
+      },
+      {
+        "id": 40,
+        "foodA": "ထန်းလျက်",
+        "foodB": "နလင်ကျော်",
+        "description": "သေ"
+      },
+      {
+        "id": 41,
+        "foodA": "ထန်းလျက်",
+        "foodB": "(၂၇)ပါးဆေး",
+        "description": "သေ"
+      },
+      {
+        "id": 42,
+        "foodA": "ထန်းလျက်",
+        "foodB": "သပြေသီး",
+        "description": "သေ"
+      },
+      {
+        "id": 43,
+        "foodA": "ဂွေးသီး",
+        "foodB": "အာတာလွတ်ဥ",
+        "description": "သေ"
+      },
+      {
+        "id": 44,
+        "foodA": "ဂွေးသီး",
+        "foodB": "နို့အေးချောင်း",
+        "description": "သေ"
+      },
+      {
+        "id": 45,
+        "foodA": "ပီလောပီနှံ",
+        "foodB": "မျှစ်ချဉ်",
+        "description": "သေ"
+      },
+      {
+        "id": 46,
+        "foodA": "ပီလောပီနှံ",
+        "foodB": "ပဲကြားလှော်",
+        "description": "သေ"
+      },
+      {
+        "id": 47,
+        "foodA": "ပီလောပီနှံ",
+        "foodB": "ဒေါင်းသား",
+        "description": "သေ"
+      },
+      {
+        "id": 48,
+        "foodA": "ကြက်ဆူသီး",
+        "foodB": "ငှက်သား",
+        "description": "သေ"
+      },
+      {
+        "id": 49,
+        "foodA": "ကျေးသား",
+        "foodB": "ဘူးသီး",
+        "description": "သေ"
+      },
+      {
+        "id": 50,
+        "foodA": "ဝက်သား",
+        "foodB": "ဗျိူင်းသား",
+        "description": "သေ"
+      },
+      {
+        "id": 51,
+        "foodA": "ဝက်သား",
+        "foodB": "ထန်းရည်ချို",
+        "description": "သေ"
+      },
+      {
+        "id": 52,
+        "foodA": "ဝက်သား",
+        "foodB": "ကြာရိုးကြာစွယ်",
+        "description": "သေ"
+      },
+      {
+        "id": 53,
+        "foodA": "ကျွဲသား",
+        "foodB": "ဆိတ်သား",
+        "description": "သေ"
+      },
+      {
+        "id": 54,
+        "foodA": "နို့ဆီ",
+        "foodB": "ကိုးပါးဆေးလျက်ဆား",
+        "description": "သေ"
+      },
+      {
+        "id": 55,
+        "foodA": "မိုင်လို(အမှုန့်)",
+        "foodB": "ပဲမြစ်",
+        "description": "သေ"
+      },
+      {
+        "id": 56,
+        "foodA": "ကြံ့သား",
+        "foodB": "ငါးအမျိုးမျိုး",
+        "description": "သေ"
+      },
+      {
+        "id": 57,
+        "foodA": "ချောကလက်",
+        "foodB": "ပဲမြစ်",
+        "description": "သေ"
+      },
+      {
+        "id": 58,
+        "foodA": "ချောကလက်",
+        "foodB": "စောင်းလျားသီး",
+        "description": "သေ"
+      },
+      {
+        "id": 59,
+        "foodA": "သိုးသား",
+        "foodB": "စောင်းလျားသီး",
+        "description": "သေ"
+      },
+      {
+        "id": 60,
+        "foodA": "တညင်းသီး",
+        "foodB": "ရှိုန်းခို",
+        "description": "သေ"
+      },
+      {
+        "id": 61,
+        "foodA": "တညင်းသီး",
+        "foodB": "ဒူးရင်းသီး",
+        "description": "သေ"
+      },
+      {
+        "id": 62,
+        "foodA": "တညင်းသီး",
+        "foodB": "မှို",
+        "description": "သေ"
+      },
+      {
+        "id": 63,
+        "foodA": "နွားနို့",
+        "foodB": "မှို",
+        "description": "သေ"
+      },
+      {
+        "id": 64,
+        "foodA": "ဖားသား",
+        "foodB": "မှို",
+        "description": "သေ"
+      },
+      {
+        "id": 65,
+        "foodA": "ပျားရည်",
+        "foodB": "အုန်းသီး",
+        "description": "သေ"
+      },
+      {
+        "id": 66,
+        "foodA": "ပျားရည်",
+        "foodB": "သြဇာသီး",
+        "description": "သေ"
+      },
+      {
+        "id": 67,
+        "foodA": "ပျားရည်",
+        "foodB": "ဥသျှစ်သီး",
+        "description": "သေ"
+      },
+      {
+        "id": 68,
+        "foodA": "နွားနို့",
+        "foodB": "သံပုရာသီး",
+        "description": "သေ"
+      },
+      {
+        "id": 69,
+        "foodA": "လယ်ကဏန်း",
+        "foodB": "မှို",
+        "description": "သေ"
+      },
+      {
+        "id": 70,
+        "foodA": "ကျွဲကောသီး",
+        "foodB": "သံပုရာသီး",
+        "description": "သေ"
+      },
+      {
+        "id": 71,
+        "foodA": "ထန်းသီး/ ရည်",
+        "foodB": "ငှက်ပျောသီး",
+        "description": "သေ"
+      },
+      {
+        "id": 72,
+        "foodA": "ကိုင်းဥ",
+        "foodB": "ပုစွန်ချဉ်",
+        "description": "သေ"
+      },
+      {
+        "id": 73,
+        "foodA": "အမဲသား",
+        "foodB": "ခရု",
+        "description": "သေ"
+      },
+      {
+        "id": 74,
+        "foodA": "ယုန်သား",
+        "foodB": "မှို",
+        "description": "သေ"
+      },
+      {
+        "id": 75,
+        "foodA": "ရေခဲမုန့်",
+        "foodB": "ချင်းသုပ်",
+        "description": "သေ"
+      },
+      {
+        "id": 76,
+        "foodA": "အုန်းနို့ခေါက်ဆွဲ",
+        "foodB": "ပက်စီ",
+        "description": "သေ"
+      },
+      {
+        "id": 77,
+        "foodA": "နွားနို့",
+        "foodB": "အချဉ်အမျိုးအမျိုး",
+        "description": "သေ"
+      },
+      {
+        "id": 78,
+        "foodA": "ကျွှဲခေါင်းသီး",
+        "foodB": "သံပုရာသီး",
+        "description": "သေ"
+      },
+      {
+        "id": 79,
+        "foodA": "ပီလောပီနံ",
+        "foodB": "အချဉ်အမျိုးမျိူး",
+        "description": "သေ"
+      },
+      {
+        "id": 80,
+        "foodA": "ရှောက်သီး",
+        "foodB": "နွားနို့၊ နို့ရည်",
+        "description": "သေ"
+      },
+      {
+        "id": 81,
+        "foodA": "ပျားရည်",
+        "foodB": "ရှားစောင်း",
+        "description": "သေ"
+      },
+      {
+        "id": 82,
+        "foodA": "လက်ဖက်ပုပ်",
+        "foodB": "မဲဇလီအဖူး/အရွက်",
+        "description": "သေ"
+      },
+      {
+        "id": 83,
+        "foodA": "စောင်းလျား",
+        "foodB": "ရှောက်",
+        "description": "သေ"
+      },
+      {
+        "id": 84,
+        "foodA": "မတ်ပဲ",
+        "foodB": "မုန်လာဥ",
+        "description": "သေ"
+      },
+      {
+        "id": 85,
+        "foodA": "ခံသီး",
+        "foodB": "ငရုတ်ကောင်း",
+        "description": "သေ"
+      },
+      {
+        "id": 86,
+        "foodA": "သံပရာ",
+        "foodB": "ပတဲကော",
+        "description": "သေ"
+      },
+      {
+        "id": 87,
+        "foodA": "ကင်းပိန့်ရွက်",
+        "foodB": "နှမ်းပတ်နှင်းမုန့်",
+        "description": "သေ"
+      },
+      {
+        "id": 88,
+        "foodA": "အင်ဥ",
+        "foodB": "ဝါးမျှစ်",
+        "description": "သေ"
+      },
+      {
+        "id": 89,
+        "foodA": "ဝါစေ့ဆီ",
+        "foodB": "ဝက်သား",
+        "description": "သေ"
+      },
+      {
+        "id": 90,
+        "foodA": "ပဲဒလက်စေ့",
+        "foodB": "ဆိတ်သား",
+        "description": "သေ"
+      },
+      {
+        "id": 91,
+        "foodA": "နနွင်း",
+        "foodB": "မိကျောင်းသား",
+        "description": "သေ"
+      },
+      {
+        "id": 92,
+        "foodA": "ကကတစ်",
+        "foodB": "ကြာဟင်းရွက်",
+        "description": "သေ"
+      },
+      {
+        "id": 93,
+        "foodA": "သခွားသီး",
+        "foodB": "ရေခဲချောင်း",
+        "description": "ရင်ကျပ် "
+      },
+      {
+        "id": 94,
+        "foodA": "စိမ်းစာဥ",
+        "foodB": "ရေခဲချောင်း",
+        "description": "ရင်ကျပ် "
+      },
+      {
+        "id": 95,
+        "foodA": "ချိုချဉ်",
+        "foodB": "ပဲငါးပိ",
+        "description": "သေ"
+      },
+      {
+        "id": 96,
+        "foodA": "ခြေလေးချောင်းမျိုး",
+        "foodB": "ခရုသား",
+        "description": "သေ"
+      },
+      {
+        "id": 97,
+        "foodA": "ခြင်ဆီ",
+        "foodB": "ထောပတ်",
+        "description": "သေ"
+      },
+      {
+        "id": 98,
+        "foodA": "ကလောဥ",
+        "foodB": "ဒန့်သလွန်",
+        "description": "သေ"
+      },
+      {
+        "id": 99,
+        "foodA": "ကလောဥ",
+        "foodB": "ဇီးဖြူသီး",
+        "description": "သေ"
+      },
+      {
+        "id": 100,
+        "foodA": "ကလောဥ",
+        "foodB": "လက်လုပ်ချဉ်များ",
+        "description": "သေ"
+      },
+      {
+        "id": 101,
+        "foodA": "ကြက်ဆူဆီ",
+        "foodB": "ခါသား",
+        "description": "သေ"
+      },
+      {
+        "id": 102,
+        "foodA": "ကြက်ဆူဆီ",
+        "foodB": "ငှက်သား",
+        "description": "သေ"
+      },
+      {
+        "id": 103,
+        "foodA": "ကြက်ဆူဆီ",
+        "foodB": "ဖွတ်သား",
+        "description": "သေ"
+      },
+      {
+        "id": 104,
+        "foodA": "ကြက်ဆူဆီ",
+        "foodB": "ဒေါင်းသား",
+        "description": "သေ"
+      },
+      {
+        "id": 105,
+        "foodA": "ကြက်ဆူဆီ",
+        "foodB": "ဥမျိုးစုံ",
+        "description": "သေ"
+      },
+      {
+        "id": 106,
+        "foodA": "ကြက်သား",
+        "foodB": "နို့ချဉ်အမျိုးမျိုး",
+        "description": "သေ"
+      },
+      {
+        "id": 107,
+        "foodA": "ကြက်သား",
+        "foodB": "အင်ဖူး",
+        "description": "သေ"
+      },
+      {
+        "id": 108,
+        "foodA": "ကြက်သွန်ဖြူ",
+        "foodB": "နို့ရည်၊",
+        "description": "သေ"
+      },
+      {
+        "id": 109,
+        "foodA": "ကြက်သွန်ဖြူ",
+        "foodB": "ပျားရည်",
+        "description": "သေ"
+      },
+      {
+        "id": 110,
+        "foodA": "ကြက်ဥ",
+        "foodB": "ပုဇွန်ချဉ်",
+        "description": "သေ"
+      },
+      {
+        "id": 111,
+        "foodA": "ကြက်ဥ",
+        "foodB": "အမ်ပီဆေးပြား",
+        "description": "သေ"
+      },
+      {
+        "id": 112,
+        "foodA": "ကြက်ဥ",
+        "foodB": "ခံသီး",
+        "description": "သေ"
+      },
+      {
+        "id": 113,
+        "foodA": "ကြေးခွက်",
+        "foodB": "အချဉ်သီး",
+        "description": "သေ"
+      },
+      {
+        "id": 114,
+        "foodA": "ကျွဲနို့",
+        "foodB": "ကြာစွယ်",
+        "description": "သေ"
+      },
+      {
+        "id": 115,
+        "foodA": "ကျွဲနို့",
+        "foodB": "ဖရုံသီး",
+        "description": "သေ"
+      },
+      {
+        "id": 116,
+        "foodA": "ကျောက်ဖရုံ",
+        "foodB": "အိုးမဲ",
+        "description": "သေ"
+      },
+      {
+        "id": 117,
+        "foodA": "ကောက်ညှင်း",
+        "foodB": "ရေငန်းသီး",
+        "description": "သေ"
+      },
+      {
+        "id": 118,
+        "foodA": "ကိုင်းဥ",
+        "foodB": "ပုဇွန်ချဉ်",
+        "description": "သေ"
+      },
+      {
+        "id": 119,
+        "foodA": "ကုလားပဲ",
+        "foodB": "နွားနို့",
+        "description": "သေ"
+      },
+      {
+        "id": 120,
+        "foodA": "ကုလားပဲ",
+        "foodB": "နို့ချဉ်၊ နို့ရည်",
+        "description": "သေ"
+      },
+      {
+        "id": 121,
+        "foodA": "ကျေးသား",
+        "foodB": "ကြက်ဆူဆီ",
+        "description": "သေ"
+      },
+      {
+        "id": 122,
+        "foodA": "ကုန်းငှက်သား",
+        "foodB": "ကြက်ဆူဆီ",
+        "description": "သေ"
+      },
+      {
+        "id": 123,
+        "foodA": "ကန့်ချူပ်နီ",
+        "foodB": "သေရည်",
+        "description": "သေ"
+      },
+      {
+        "id": 124,
+        "foodA": "ကန်စွန်းဖြစ်",
+        "foodB": "နှမ်းမှုန့်",
+        "description": "သေ"
+      },
+      {
+        "id": 125,
+        "foodA": "ဂင်ပိတ်ရွက်",
+        "foodB": "ပျားရည်",
+        "description": "သေ"
+      },
+      {
+        "id": 126,
+        "foodA": "ဂင်ပိတ်ရွက်",
+        "foodB": "ဥသျှစ်သီး",
+        "description": "သေ"
+      },
+      {
+        "id": 127,
+        "foodA": "ဂင်ပိတ်ရွက်",
+        "foodB": "နှမ်းဆီ ၊ နှမ်းဖတ်ချဉ်",
+        "description": "သေ"
+      },
+      {
+        "id": 128,
+        "foodA": "ကတိုး",
+        "foodB": "သရက်သီး",
+        "description": "သေ"
+      },
+      {
+        "id": 129,
+        "foodA": "ချောကလက်",
+        "foodB": "မြေပဲ",
+        "description": "တောက်"
+      },
+      {
+        "id": 130,
+        "foodA": "ကြောင်လျှာသီး",
+        "foodB": "ထန်းလျက်ချို",
+        "description": "ဝမ်းလျှော"
+      },
+      {
+        "id": 131,
+        "foodA": "ဝက်သား",
+        "foodB": "နို့ချဉ်",
+        "description": "ဝမ်းလျှော"
+      },
+      {
+        "id": 132,
+        "foodA": "ဝက်သား",
+        "foodB": "ကျွဲနို့",
+        "description": "ဝမ်းလျှော"
+      },
+      {
+        "id": 133,
+        "foodA": "သစ်ကြာသီး",
+        "foodB": "မြေဇာဥ",
+        "description": "အော့အန်"
+      },
+      {
+        "id": 134,
+        "foodA": "စိမ်းစားဥ",
+        "foodB": "ခိုသား",
+        "description": "အော့အန်"
+      },
+      {
+        "id": 135,
+        "foodA": "အင်သမင်နွယ်",
+        "foodB": "ပျားရည်",
+        "description": "အော့အန်"
+      },
+      {
+        "id": 136,
+        "foodA": "ပဲငပိ",
+        "foodB": "ချိုချဉ်",
+        "description": "အော့အန်"
+      },
+      {
+        "id": 137,
+        "foodA": "လက်ဖက်သုတ်",
+        "foodB": "မဲဇလီဖူးရွက်",
+        "description": "အော့အန်"
+      },
+      {
+        "id": 138,
+        "foodA": "သမင်သား",
+        "foodB": "ဝါဆီ",
+        "description": "ရင်ကြပ်"
+      },
+      {
+        "id": 139,
+        "foodA": "မျှစ်",
+        "foodB": "အင်ဥ",
+        "description": "သေ"
+      },
+      {
+        "id": 140,
+        "foodA": "တစောင်းဆူး",
+        "foodB": "မျှစ်",
+        "description": "ရင်ပူ"
+      },
+      {
+        "id": 141,
+        "foodA": "ပဲမုန့်",
+        "foodB": "မုန်လာမြစ်",
+        "description": "မူးဝေ"
+      },
+      {
+        "id": 142,
+        "foodA": "ဆူးပုပ်ရွက်",
+        "foodB": "ဆိတ်နို့၊ ဆိတ်သား",
+        "description": "မူးဝေ"
+      },
+      {
+        "id": 143,
+        "foodA": "ငါးသေတ္တာ",
+        "foodB": "ထိကရုံး",
+        "description": "မူးဝေ"
+      },
+      {
+        "id": 144,
+        "foodA": "နို့ဆီ",
+        "foodB": "၂၇ ပါးဆေး",
+        "description": "သေ"
+      },
+      {
+        "id": 145,
+        "foodA": "ထန်းလျက်",
+        "foodB": "ဘာမီတွန်",
+        "description": "သေ"
+      },
+      {
+        "id": 146,
+        "foodA": "ငါးရံ့သား",
+        "foodB": "ပွေးသား",
+        "description": "သေ"
+      },
+      {
+        "id": 147,
+        "foodA": "နို့အေးချောင်း",
+        "foodB": "ပွေးသား",
+        "description": "သေ"
+      },
+      {
+        "id": 148,
+        "foodA": "စိန် ၊ ဘတ်စပရို",
+        "foodB": "သံပရာသီး",
+        "description": "သေ"
+      },
+      {
+        "id": 149,
+        "foodA": "ခရမ်းပိန်း",
+        "foodB": "နို့ရည်",
+        "description": "သေ"
+      },
+      {
+        "id": 150,
+        "foodA": "သေရည်အရက်",
+        "foodB": "ဉာဏ်ရွက်",
+        "description": "သေ"
+      },
+      {
+        "id": 151,
+        "foodA": "သေရည်အရက်",
+        "foodB": "အေပီစီဆေးပြား",
+        "description": "သေ"
+      },
+      {
+        "id": 152,
+        "foodA": "ဒူးရင်းသီး",
+        "foodB": "ရှိန်းခို",
+        "description": "သေ"
+      },
+      {
+        "id": 153,
+        "foodA": "ရေငန်သီး",
+        "foodB": "ကောက်ညှင်း",
+        "description": "သေ"
+      },
+      {
+        "id": 154,
+        "foodA": "ဂျယ်လီ",
+        "foodB": "ကော်ဖီမစ်",
+        "description": "သေ"
+      },
+      {
+        "id": 155,
+        "foodA": "ပီလောပီနံဥ",
+        "foodB": "ပဲကြားလှော်",
+        "description": "သေ"
+      },
+      {
+        "id": 156,
+        "foodA": "ပီလောပီနံဥ",
+        "foodB": "မျှစ်ချဉ်",
+        "description": "သေ"
+      },
+      {
+        "id": 157,
+        "foodA": "ဆိုဒါ",
+        "foodB": "၉ ပါးဆေး",
+        "description": "သေ"
+      },
+      {
+        "id": 158,
+        "foodA": "ဘာမီတွန်",
+        "foodB": "တစ်ဖီ (အစိမ်းကဒ်)",
+        "description": "သေ"
+      }
+    ]
+  }
