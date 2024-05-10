@@ -29,8 +29,8 @@ export default function Page({ params }) {
         fetch(`${endpoint}/result/${foodA}/${foodB}`)
             .then((res) => res.json())
             .then((data) => {
-                setData(data)
                 setLoading(false)
+                setData(data)
             })
     }, [])
 
